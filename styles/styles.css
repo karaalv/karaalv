@@ -1,11 +1,17 @@
 /* Styles for GitHub README */
 
+/* Variables */
+:root {
+    --profile-size: 200px;
+    --icon-size: 50px;
+}
+
 /* Profile */
 .profile{
     margin-right: 5%;
-    width: 150px;
-    height: 150px;
-    border-radius: 50%;
+    width: var(--profile-size);
+    height: var(--profile-size);
+    border-radius: 100%;
     object-fit: cover;
 }
 
@@ -22,5 +28,25 @@
     font-size: large;
     font-style: italic;
     font-weight: bold;
-    opacity: 0.7;
+    opacity: 0.8;
+}
+
+/* Description */
+.description{
+    font-size: medium;
+    margin: 3%;
+    font-weight: 500;
+    text-align: justify;
+}
+
+/* Technical tools */
+.technicalTools{
+    display: flex;
+    gap: 10px;
+}
+
+.icon{
+    height: var(--icon-size);
+    width: var(--icon-size);
+    border-radius: 10%;
 }
