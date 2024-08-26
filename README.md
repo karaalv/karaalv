@@ -2,11 +2,11 @@
 <link rel='stylesheet' href='./styles/styles.css'/>
 
 <!-- Header -->
-<div style='display: flex; align-items: center; margin: 2%;'>
+<div style='display: flex; align-items: center; margin: 2%; width: 100%; height: auto%'>
     <!-- Profile -->
-    <img src='./assets/CV-Closeup.png' alt='Photo of me :)' style='margin-right: 5%; width: 200px; height: 200px; border-radius: 100%; object-fit: cover;'>
+    <img src='./assets/CV-Closeup.png' alt='Photo of me :)' style='margin-right: 5%; width: 150px; height: 150px; border-radius: 100px; object-fit: cover;'>
     <!-- Name and tags -->
-    <div style='display: flex; flex-direction: column; justify-content: center; align-items: left;'>
+    <div style='display: flex; flex-direction: column; justify-content: center; align-items: left; width: 70%'>
         <!-- Name -->
         <h1>
             Hey there, I'm Alvin 👋🏾
@@ -25,45 +25,45 @@
 <h1>Tech Stack </h1>
 
 <!-- SPACING -->
-<div style='margin: 4%'></div>
+<div style='margin: 30px'></div>
 
 <!-- Technical Tools -->
-<div style='display: flex; gap: 2%;'>
+<div style='display: flex; gap: 2%; width: 100%;'>
     <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style='height: 50px; width: 50px;border-radius: 10%;'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style='height: 50px; width: 50px; border-radius: 10px;'/>
     <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style='height: 50px; width: 50px;border-radius: 10%;'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style='height: 50px; width: 50px; border-radius: 10px;'/>
     <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style='height: 50px; width: 50px;border-radius: 10%;'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style='height: 50px; width: 50px;'/>
     <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style='height: 50px; width: 50px;border-radius: 10%;'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style='height: 50px; width: 50px;'/>
     <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style='height: 50px; width: 50px;border-radius: 10%;'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style='height: 50px; width: 50px;'/>
     <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style='height: 50px; width: 50px;border-radius: 10%;'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style='height: 50px; width: 50px;'/>
     <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" style='height: 50px; width: 50px;border-radius: 10%;'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-original.svg" style='height: 50px; width: 50px;'/>
     <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" style='height: 50px; width: 50px;border-radius: 10%;'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" style='height: 50px; width: 50px;'/>
     <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style='height: 50px; width: 50px;border-radius: 10%;'/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style='height: 50px; width: 50px;'/>
     <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style='height: 50px; width: 50px;border-radius: 10%;'/>                   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style='height: 50px; width: 50px;'/>                   
 </div>
 
 <!-- SPACING -->
-<div style='margin: 4%'></div>
+<div style='margin: 50px'></div>
 
 <!-- Projects -->
 <h1>Projects</h1>
 
 <!-- SPACING -->
-<div style='margin: 3%'></div>
+<div style='margin: 30px'></div>
 
 <!-- Gatsby -->
-<div style='display: flex; align-items: center;'>
+<div style='display: flex; align-items: center; width: 100%;'>
     <!-- Details -->
-    <div style='background-color: rgba(128, 128, 128, 0.2); font-size: medium; padding: 2%; margin: 2%; border-radius: 5px;'>
+    <div style='font-size: medium; padding: 2%; margin: 2%; border-radius: 5px; width:85%'>
         <h2><a href='https://github.com/karaalv/Gatsby-Public'>Gatsby</a></h2>
         <p style='text-align: justify;'>
             Ticket distribution mobile platform that leverages Web3 technology to authenticate and secure tickets. The app transforms event tickets into non-fungible digital assets secured by the <strong>Ethereum blockchain</strong> and stored on the <strong>IPFS network</strong>. Furthermore, <strong>social media</strong> dynamics are integrated into the platform to enrich user engagement with events.
@@ -79,19 +79,17 @@
             <!---->
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style='height: 30px; width: 30px; border-radius: 10%;'/>
             <!---->
-            <div style='height: 30px; width: 30px; border-radius: 10%; background-color: white; display: inherit; align-items: center; justify-content: center'>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style='height: 25px; width: 25px;'/>
-            </div>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style='height: 30px; width: 30px;'/>
         </div>
     </div>
     <!-- Image -->
-    <img src='./assets/Gatsby.png' style='width: 17%'/>
+    <img src='./assets/Gatsby.png' style='width: 15%'/>
 </div>
 
 <!-- Getaway -->
-<div style='display: flex; align-items: center;'>
+<div style='display: flex; align-items: center; width: 100%;'>
     <!-- Details -->
-    <div style='background-color: rgba(128, 128, 128, 0.2); font-size: medium; padding: 2%; margin: 2%; border-radius: 5px;'>
+    <div style='font-size: medium; padding: 2%; margin: 2%; border-radius: 5px; width: 70%'>
         <h2><a href='https://github.com/karaalv/Getaway'>Getaway</a></h2>
         <p style='text-align: justify;'>
             Developed using <strong>three.js</strong>, this game lets players control a sports car to navigate a course whilst avoiding oncoming vehicles. Inspired by classic arcade games like Out Run and Neon Drive, Getaway features voxel art designed in <strong>Blender</strong> to evoke an 80s arcade aesthetic.
@@ -101,7 +99,7 @@
             <!---->
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style='height: 30px; width: 30px; border-radius: 10%;'/>
             <!---->
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" style='height: 30px; width: 30px; border-radius: 10%; background-color: white'/>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threejs/threejs-original.svg" style='height: 30px; width: 30px; border-radius: 10%;'/>
             <!---->
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style='height: 30px; width: 30px; border-radius: 10%;'/>
             <!---->
@@ -115,7 +113,7 @@
 </div>
 
 <!-- SPACING -->
-<div style='margin: 3%'></div>
+<div style='margin: 50px'></div>
 
 <!-- Additional details drawer -->
 <details style='font-size: medium'>
