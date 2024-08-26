@@ -7,76 +7,75 @@
 }
 
 /* Profile */
-.profile{
+/* .profile{
     margin-right: 5%;
-    width: var(--profile-size);
-    height: var(--profile-size);
+    width: 200px;
+    height: 200px;
     border-radius: 100%;
     object-fit: cover;
-}
+} */
 
 /* Name and tags */
-.nameAndTags{
+/* .nameAndTags{
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: left;
-}
+} */
 
 /* Tag text */
-.tagText{
+/* .tagText{
     font-size: large;
     font-style: italic;
     font-weight: bold;
     opacity: 0.8;
-}
+} */
 
 /* Description */
-.description{
+/* .description{
     font-size: medium;
     font-weight: 500;
     text-align: justify;
     margin-top: 2%;
-}
+} */
 
 /* Technical tools */
-.technicalTools{
+/* .technicalTools{
     display: flex;
     gap: 10px;
-}
+} */
 
-.icon{
-    height: var(--icon-size);
-    width: var(--icon-size);
+/* .icon{
+    height: 50px;
+    width: 50px;
     border-radius: 10%;
-}
-
-/* Additional Info */
-.additional{
-    font-size: medium;
-}
+} */
 
 /* Projects Grid */
-.project{
+/* .project{
     background-color: rgba(128, 128, 128, 0.2);
     font-size: medium;
     padding: 2%;
     margin: 2%;
     border-radius: 5px;
-}
+} */
 
-.project-text{
+/* .project-text{
     text-align: justify;
-}
+} */
 
-.project-tech-stack{
+/* .project-tech-stack{
     display: flex;
     gap: 3px;
-}
+} */
 
-.project-icon{
+/* .project-icon{
     height: 25px;
     width: 25px;
     border-radius: 10%;
-}
+} */
 
+/* Additional Info */
+/* .additional{
+    font-size: medium;
+} */
