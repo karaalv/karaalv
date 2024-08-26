@@ -15,15 +15,17 @@
     </h1>
     <!-- Tags -->
     <p class='tagText'>
-        Fullstack Developer | UI/UX Designer | RAG and LLM Developer
+        Fullstack Developer | RAG and LLM Developer
+    </p>
+    <!-- Description -->
+    <p class='description'>
+        I am passionate about turning ideas into reality by leveraging a diverse set of frameworks. My interests span web and mobile development, blockchain, machine learning, and artificial intelligence, allowing me to explore innovative solutions across various domains.
     </p>
 </div>
+
 </div>
 
-<!-- Description -->
-<p class='description'>
-I am passionate about turning ideas into reality by leveraging a diverse set of frameworks. My interests span web and mobile development, blockchain, machine learning, and artificial intelligence, allowing me to explore innovative solutions across various domains.
-</p>
+
 
 <h2>Tech Stack </h2>
 <br>
@@ -56,9 +58,17 @@ I am passionate about turning ideas into reality by leveraging a diverse set of 
 <!-- Projects -->
 <h2>Projects</h2>
 
+
+
+
 <!-- Additional details drawer -->
-<details>
-<summary>More About Me</summary>
+<details class='additional'>
+    <summary style='font-size: larger; font-weight: bold;'>&nbsp;&nbsp;<i>More About Me</i> 📍</summary>
+    <ul>
+        <li style='margin: 1%'>Pursing MSc in <strong>Business Analytics</strong> at <strong>Imperial College London</strong></li>
+        <li style='margin: 1%'>BEng in <strong>Computer Systems Engineering</strong> from the <strong>University of Warwick</strong></li>
+        <li style='margin: 1%'>Previously <strong>Co-Chief Electrical Systems Engineer</strong> at Warwick Racing <strong>Formula Student</strong></li>
+    </ul>
 </details>
 
 
