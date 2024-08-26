@@ -2,21 +2,21 @@
 <link rel='stylesheet' href='./styles/styles.css'/>
 
 <!-- Header -->
-<div style='display: flex; align-items: center; margin: 2%; width: 100%; height: auto%'>
+<div style='display: flex; align-items: center; margin: 2%; width: 100%; height: auto'>
     <!-- Profile -->
-    <img src='./assets/CV-Closeup.png' alt='Photo of me :)' style='margin-right: 5%; width: 150px; height: 150px; border-radius: 100px; object-fit: cover;'>
+    <img src='./assets/CV-Closeup.png' alt='Photo of me :)' style='margin-right: 5%; width: 150px; height: 150px; border-radius: 50%; object-fit: cover;'>
     <!-- Name and tags -->
-    <div style='display: flex; flex-direction: column; justify-content: center; align-items: left; width: 70%'>
+    <div style='display: flex; flex-direction: column; justify-content: center; align-items: flex-start; width: 70%'>
         <!-- Name -->
-        <h1>
+        <h1 style='margin: 0;'>
             Hey there, I'm Alvin 👋🏾
         </h1>
         <!-- Tags -->
-        <p style='font-size: large; font-style: italic; font-weight: bold;opacity: 0.8;'>
+        <p style='font-size: large; font-style: italic; font-weight: bold;opacity: 0.8; margin: 0;'>
             Fullstack Developer | RAG and LLM Developer
         </p>
         <!-- Description -->
-        <p style='font-size: medium; font-weight: 500; text-align: justify;margin-top: 2%;'>
+        <p style='font-size: medium; font-weight: 500; text-align: justify; margin-top: 2%;'>
             I am passionate about turning ideas into reality by leveraging a diverse set of frameworks. My interests span web and mobile development, blockchain, machine learning, and artificial intelligence, allowing me to explore innovative solutions across various domains.
         </p>
     </div>
