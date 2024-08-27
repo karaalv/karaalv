@@ -1,7 +1,7 @@
 <!-- Header -->
-<div style='display: flex; flex-direction: column; align-items: center; margin: 2%; width: 100%; height: auto'>
+<div style='display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 2%; width: 100%; height: auto'>
     <!-- Profile -->
-    <img src='./assets/me.png' alt='Photo of me :)' style='width: 200px; height: 200px; object-fit: cover;'>
+    <img src='./assets/me.png' alt='Photo of me :)' style='width: 150px; height: 150px; object-fit: cover;'>
     <!-- Name and tags -->
     <div style='display: flex; flex-direction: column; justify-content: center; align-items: flex-start; width: 80%'>
         <!-- Name -->
@@ -81,18 +81,14 @@
 <!-- SPACING -->
 <br>
 <br>
-<br>
-<br>
 
 <!-- Additional details drawer -->
 <details style='font-size: medium'>
     <summary style='font-size: large; font-weight: bold;'>&nbsp;&nbsp;<i>More About Me</i> 📍</summary>
+    <br>
     <ul>
         <li style='margin: 1%'>Pursuing MSc in <strong>Business Analytics</strong> at <strong>Imperial College London</strong></li>
         <li style='margin: 1%'>BEng in <strong>Computer Systems Engineering</strong> from the <strong>University of Warwick</strong></li>
         <li style='margin: 1%'>Previously <strong>Co-Chief Electrical Systems Engineer</strong> at Warwick Racing <strong>Formula Student</strong></li>
     </ul>
 </details>
-
-
-
