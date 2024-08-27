@@ -22,7 +22,7 @@
     </div>
 </div>
 
-<h1>Tech Stack </h1>
+<h2>Tech Stack </h2>
 
 <!-- SPACING -->
 <div style='margin: 30px'></div>
@@ -55,7 +55,7 @@
 <div style='margin: 50px'></div>
 
 <!-- Projects -->
-<h1>Projects</h1>
+<h2>Projects</h2>
 
 <!-- SPACING -->
 <div style='margin: 30px'></div>
@@ -113,7 +113,10 @@
 </div>
 
 <!-- SPACING -->
-<div style='margin: 50px'></div>
+<br>
+<br>
+<br>
+<br>
 
 <!-- Additional details drawer -->
 <details style='font-size: medium'>
