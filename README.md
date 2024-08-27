@@ -9,9 +9,7 @@
             Hey there, I'm Alvin 👋🏾
         </h1>
         <!-- Tags -->
-        <p style='font-size: large; font-style: italic;'>
-            Fullstack Developer | RAG and LLM Developer
-        </p>
+        <h3>Fullstack Developer | RAG and LLM Developer | Aspiring Data Analyst</h3>
         <!-- Description -->
         <p style='font-size: medium; font-weight: 500; text-align: justify; margin-top: 2%;'>
             I am passionate about turning ideas into reality by leveraging a diverse set of frameworks. My interests span web and mobile development, blockchain, machine learning, and artificial intelligence, allowing me to explore innovative solutions across various domains.
