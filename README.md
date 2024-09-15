@@ -1,7 +1,7 @@
 <!-- Header -->
 <div style='display: flex; flex-direction: column; align-items: center; justify-content: center; margin: 2%; width: 100%; height: auto'>
     <!-- Profile -->
-    <img src='./assets/me.png' alt='Photo of me :)' style='width: 150px; height: 150px; object-fit: cover;'>
+<!--     <img src='./assets/me.png' alt='Photo of me :)' style='width: 150px; height: 150px; object-fit: cover;'> -->
     <!-- Name and tags -->
     <div style='display: flex; flex-direction: column; justify-content: center; align-items: flex-start; width: 80%'>
         <!-- Name -->
