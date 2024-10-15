@@ -32,55 +32,38 @@
 <div style='display: flex; flex-wrap: wrap; gap: 10px; align-items: centre; justify-content: center;'>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
+    <img src="./assets/Express.png" style='height: 50px; width: 50px;'/>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->   
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->         
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!----> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style='height: 50px; width: 50px;'/>
-    <img width='5px'>
     <!---->   
 </div>
 
@@ -103,7 +86,7 @@
         </p>
     </div>
     <!-- Image -->
-    <img src='./assets/Portfolio.png' style='width: 80%;'/>
+    <img src='./assets/Portfolio.png' style='width: 70%;'/>
 </div>
 
 <!-- SPACING -->
