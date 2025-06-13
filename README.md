@@ -1,83 +1,84 @@
 <!-- Header -->
-<div style='display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%; height: auto'>
-    <!-- Profile -->
-    <!-- <img src='./assets/me.png' alt='Photo of me :)' style='width: 150px; height: 150px; object-fit: cover;'> -->
-    <!-- Name and tags -->
-    <div style='display: flex; flex-direction: column; justify-content: center; align-items: flex-start;'>
-        <!-- Name -->
-        <h1 style='margin: 0;'>
-            Hey there, I'm Alvin 👋🏾
-        </h1>
-        <!-- Tags -->
-        <h3>Full-stack Software Engineer - Data Analyst - Artificial Intelligence and Machine Learning</h3>
-        <!-- Description -->
-        <p style='font-size: medium; font-weight: 500; margin-top: 2%;'>
-            I enjoy transforming abstract ideas into practical, real-world systems. My interests span web and mobile development, 
-            blockchain, machine learning and artificial intelligence, enabling me to explore innovative solutions across diverse 
-            domains. I am passionate about tackling complex problems and building efficient solutions, from data modelling and 
-            system architecture planning to designing dynamic user interfaces.<br>
-            <br>
-            I aspire to contribute to projects that make a significant impact, embracing new challenges that ignite my creativity 
-            and help me grow as a developer.
-        </p>
+<div>
+    <!-- Name -->
+    <h1> Hey, I'm Alvin 👋🏾</h1>
+    <!-- Tags -->
+    <h3>Software Engineer | Machine Learning Engineer | Data Scientist</h3>
+    <!-- Description -->
+    <p style='font-size: medium;'>
+        I enjoy transforming abstract ideas into practical, real-world systems. My interests 
+        span web and mobile development, blockchain, machine learning, and artificial intelligence, 
+        enabling me to explore innovative solutions across diverse domains. I'm particularly interested 
+        in data science and quantitative research, where I apply analytical thinking to uncover insights 
+        and build intelligent systems. I'm passionate about tackling complex problems and creating efficient 
+        solutions; from data modelling and system architecture to designing dynamic user interfaces.<br>
+        <br>
+        I aspire to contribute to projects that make a significant impact, embracing new challenges that 
+        ignite my creativity and help me grow as a developer.
+    </p>
+</div>
+
+<br>
+
+<!-- Technical Skills -->
+<h2>Technical Skills</h2>
+
+<div>
+    <h3>Languages</h3>
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" style='height: 45px; width: 45px;'/>
+    </div>
+    <h3>Databases</h3>
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original-wordmark.svg" style='height: 45px; width: 45px;'/>
+    </div>
+    <h3>Machine Learning & Data Science</h3>
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original.svg" style='height: 45px; width: 45px;'/>
+    </div>
+    <h3>Web Development</h3>
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style='height: 45px; width: 45px;'/>
+        <img src="./assets/Express.png" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" style='height: 45px; width: 45px;'/>
+    </div>
+    <h3>Cloud Platforms & DevOps</h3>
+    <div>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" style='height: 45px; width: 45px;'/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style='height: 45px; width: 45px;'/>
     </div>
 </div>
 
-<h2>Main Development Stack</h2>
+<br>
 
-<!-- SPACING -->
-<div style='margin: 50px'></div>
-
-<!-- Technical Tools -->
-<div style='display: flex; flex-wrap: wrap; gap: 10px; align-items: centre; justify-content: center;'>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="./assets/Express.png" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" style='height: 50px; width: 50px;'/>
-    <!---->   
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->         
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style='height: 50px; width: 50px;'/>
-    <!----> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style='height: 50px; width: 50px;'/>
-    <!---->   
-</div>
-
-<!-- SPACING -->
-<div style='margin: 50px'></div>
+---
 
 <!-- Portfolio -->
-<h2>Projects</h2>
-
-<!-- Gatsby -->
-<div style='display: flex; flex-direction: column; align-items: center; justify-content: center; width: 100%;'>
+<div>
     <!-- Details -->
+    <h3><a href='https://github.com/karaalv/alvin-portfolio'>Portfolio Website</a></h3>
     <div style='font-size: medium;'>
-        <h3><a href='https://github.com/karaalv/alvin-portfolio'>Portfolio Website</a></h3>
         <p>
             To effectively showcase my personal projects and work experience, I developed a <strong>portfolio webpage</strong> using 
             TypeScript, React, Next.js, and vanilla CSS. <strong>Swiss web design</strong> served as the principal design ideology 
@@ -86,11 +87,12 @@
         </p>
     </div>
     <!-- Image -->
-    <img src='./assets/Portfolio.png' style='width: 70%;'/>
+    <p align='center'>
+        <img src='./assets/Portfolio.png' style='width: 70%;'/>
+    </p>
 </div>
 
-<!-- SPACING -->
-<div style='margin: 100px'></div>
+<br>
 
 <!-- Additional details drawer -->
 <details style='font-size: medium'>
