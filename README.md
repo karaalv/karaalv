@@ -1,15 +1,9 @@
 <!-- Header -->
 <div>
-    <!-- Name -->
-    <h1>Hey, I'm Alvin 👋🏾</h1>
-    <!-- Tags -->
-    <h3>Software Engineer | Machine Learning Engineer | Data Scientist</h3>
     <!-- Description -->
     <p style='font-size: medium;'>
-        I enjoy transforming abstract ideas into practical, real-world systems. I'm particularly interested 
-        in data science and quantitative research, applying analytical thinking to uncover insights 
-        and build intelligent systems. I'm passionate about tackling complex problems and creating efficient 
-        solutions; from data modelling and system architecture to designing dynamic user interfaces.
+        I like taking on complex problems and implementing creative 
+        solutions; from statistical modelling and building systems to designing dynamic user experiences.
         <br><br>
         I aim to work on meaningful projects that challenge me intellectually and push me to grow technically 
         and creatively.
@@ -19,18 +13,24 @@
 <!-- Portfolio -->
 <div>
     <!-- Details -->
-    <h3><a href='https://alvinkaranja.dev'>Portfolio Website</a></h3>
+    <h3>Portfolio Website</h3>
     <div style='font-size: medium;'>
         <p>
-            To effectively showcase my personal projects and work experience, I developed a <strong>portfolio webpage</strong> using 
-            TypeScript, React, Next.js, and vanilla CSS. <strong>Swiss web design</strong> served as the principal design ideology 
-            for the website, allowing me to present content in a clear minimalistic fashion whilst drawing attention to 
-            stand out elements.
+            I built a website to showcase my projects and experience.
+            It also features:
+        </p>
+        <ul>
+            <li>A chat agent that impersonates me using a custom RAG system to give contextually aware answers.</li>
+            <li>A résumé and cover letter generator that tailors applications directly from job descriptions or URLs.</li>
+        </ul>
+        <p>
+            Feel free to explore here:
+        <a href='https://alvinkaranja.dev'>alvinkaranja.dev</a>
         </p>
     </div>
     <!-- Image -->
     <p align='center'>
-        <img src='./assets/Portfolio.png' style='width: 70%;'/>
+        <img src='./assets/portfolio_v2.png' style='width: 70%;'/>
     </p>
 </div>
 
@@ -75,14 +75,3 @@
 </p>
 
 <br>
-
-<!-- Additional details drawer -->
-<details style='font-size: medium'>
-    <summary style='font-size: large; font-weight: bold;'>&nbsp;&nbsp;<i>More About Me</i> 📍</summary>
-    <br>
-    <ul>
-        <li style='margin: 1%'>Currently pursuing MSc in <strong>Business Analytics</strong> at <strong>Imperial College London</strong></li>
-        <li style='margin: 1%'>Graduated with Honours in BEng <strong>Computer Systems Engineering</strong> from the <strong>University of Warwick</strong></li>
-        <li style='margin: 1%'>Previously <strong>Co-Chief Electrical Systems Engineer</strong> at Warwick Racing <strong>Formula Student</strong></li>
-    </ul>
-</details>
